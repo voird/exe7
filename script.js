@@ -1,4 +1,3 @@
-  window.addEventListener("DOMContentLoaded", function(event) {
     $(document).ready(function(){
         $('.slider').slick({
           arrows:true,
@@ -18,4 +17,3 @@
           ]
         });
       });
-    });
